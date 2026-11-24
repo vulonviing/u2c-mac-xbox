@@ -1,0 +1,3 @@
+- [ ] `bash scripts/precommit-scan.sh` is clean
+- [ ] New claims carry an evidence label
+- [ ] No binaries/firmware/keys
